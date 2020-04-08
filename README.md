@@ -9,9 +9,9 @@ Neste projeto eu decidi estilizar um pouco mais o desafio realizado no gostack. 
 - EXCLUIMENTO DE REPOSITÓRIO
 
 # IMAGENS
-<img src="https://i.imgur.com/IyxVPXeg.png" width="400">
-<img src="https://i.imgur.com/Hq7jGS1.png">
-<img src="https://i.imgur.com/oDDknxz.png" width="400">
+<img src="https://i.imgur.com/IyxVPXeg.png" width="800">
+<img src="https://i.imgur.com/Hq7jGS1.png" width="800">
+<img src="https://i.imgur.com/oDDknxz.png" width="800">
 
 ## INSTRUÇÕES PARA UTILIZAÇÃO
 
