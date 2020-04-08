@@ -107,7 +107,7 @@ export default function Body() {
                       ))}
                     </ul>
                   </div>
-                  <p>rocketseat.com.br</p>
+                  <p>{repo.url}</p>
                 </div>
                 <button onClick={() => handleRemoveRepo(repo.id)}>
                   REMOVE
